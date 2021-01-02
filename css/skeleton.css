@@ -155,8 +155,12 @@ p {
   margin-top: 0; 
 }
 
-h1 {
-	margin-top: 2rem;
+h2 {
+	border-top-style: dotted;
+	border-width: 1px;
+	border-color: #1EAEDB;
+	margin-top: 3rem;
+	padding: 0.4rem;
 }
 
 
